@@ -1,0 +1,4 @@
+ Lab 1: Basic Connection
+
+    Create a network with two computers connected by cable.
+    Configure IP addresses and test the connection using ping.
