@@ -1,0 +1,4 @@
+Lab 2: Switches
+
+    Connect multiple devices to a switch.
+    Assign IPs and verify connectivity.
