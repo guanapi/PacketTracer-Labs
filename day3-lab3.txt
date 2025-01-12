@@ -1,0 +1,7 @@
+Lab 3: Routers and Subnets
+
+Objective
+
+    Add a router to the network.
+    Divide the network into two different subnets.
+    Configure connectivity between the subnets using the router.
