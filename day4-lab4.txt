@@ -1,0 +1,7 @@
+Laboratory 4: DHCP and DNS
+
+Objective:
+
+    Configure a DHCP server to automatically assign IP addresses.
+    Configure a DNS server to translate domain names into IP addresses.
+    Verify dynamic IP assignment and name resolution.
