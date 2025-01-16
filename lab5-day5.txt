@@ -1,0 +1,23 @@
+Lab 5: Security and VLANs
+
+Objective:
+✅ Segregate the network into different VLANs to improve security and management.
+✅ Apply basic security rules, such as disabling unused ports and setting passwords on the switch.
+
+Topology:
+
+    1 router
+    1 switch
+    6 computers (3 for VLAN 10 and 3 for VLAN 20)
+
+Steps:
+
+    1- Connect all computers to the switch.
+    2- Connect the switch to the router.
+    3- Disable all unused switch ports.
+    4- Set passwords to prevent unauthorized connections (in global configuration, line console 0, and line vty 0 4).
+    5 - Assign ports to VLANs.
+    6 - Assign names to VLANs (e.g., VLAN 10 = Sales Department, VLAN 20 = Support Department).
+    7 - Assign static IPs to the PCs.
+    8 - Check connectivity.
+    9 -Configure the router.
